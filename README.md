@@ -16,3 +16,4 @@
 - /evening Set the time to evening.
 - /night Set the time to night.
  
+ **Be Warned, This was created quick and dirty. It's probably not the best in the world.**
